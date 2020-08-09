@@ -12,11 +12,11 @@ body{
     
     font-size: 470%;
     
-    background-image: url(../Portada.jpg);
+    background-image: url(Portada.jpg);
     /* fallback for old browsers */
-        backgrround: -webkit-linear-gradient(to right, hsla(240, 62%, 22%, 0.671), hsla(214, 95%, 22%, 0.671)), url(../img/Portada.jpg);
+        backgrround: -webkit-linear-gradient(to right, hsla(240, 62%, 22%, 0.671), hsla(214, 95%, 22%, 0.671)), url(Portada.jpg);
     /* Chrome 10-25, Safari 5.1-6 */
-        backgrround: linear-gradient(to right, hsla(240, 62%, 22%, 0.671), hsla(214, 95%, 22%, 0.671)), url(../img/Portada.jpg);
+        backgrround: linear-gradient(to right, hsla(240, 62%, 22%, 0.671), hsla(214, 95%, 22%, 0.671)), url(Portada.jpg);
     /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
     background-size: cover;
